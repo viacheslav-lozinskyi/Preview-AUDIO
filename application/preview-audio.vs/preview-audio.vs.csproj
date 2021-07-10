@@ -48,7 +48,7 @@
 
   <ItemGroup>
     <PackageReference Include="MetaOutput.Media">
-      <Version>1.0.1</Version>
+      <Version>1.0.2</Version>
     </PackageReference>
     <PackageReference Include="Microsoft.VisualStudio.Shell.15.0">
       <Version>15.0.26606</Version>
