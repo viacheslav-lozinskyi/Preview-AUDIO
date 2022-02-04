@@ -8,7 +8,7 @@
 
 ---
 
-[![MetaOutput](https://www.metaoutput.net/_functions/watch?source=GITHUB&size=256x256&project=Preview-AUDIO&url=https://marketplace.visualstudio.com/items?itemName=ViacheslavLozinskyi.Preview-AUDIO)](https://www.metaoutput.net/?utm_source=github.com&utm_medium=referral&utm_campaign=redirect-to-homepage&utm_term=2021-11-21&utm_content=Preview-AUDIO)
+[![MetaOutput](https://www.metaoutput.net/_functions/watch?source=GITHUB&size=128x128&project=Preview-AUDIO&url=https://marketplace.visualstudio.com/items?itemName=ViacheslavLozinskyi.Preview-AUDIO)](https://www.metaoutput.net/?utm_source=github.com&utm_medium=referral&utm_campaign=redirect-to-homepage&utm_term=2021-11-21&utm_content=Preview-AUDIO)
 
 ### This extension is working only with installed [MetaOutput](https://www.metaoutput.net/?utm_source=github.com&utm_medium=referral&utm_campaign=redirect-to-homepage&utm_term=2021-11-21&utm_content=Preview-AUDIO) extension!
 
