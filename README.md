@@ -8,6 +8,12 @@
 
 ---
 
+[![MetaOutput](https://www.metaoutput.net/_functions/watch?source=GITHUB&size=256x256&project=Preview-AUDIO&url=https://marketplace.visualstudio.com/items?itemName=ViacheslavLozinskyi.Preview-AUDIO)](https://www.metaoutput.net/?utm_source=github.com&utm_medium=referral&utm_campaign=redirect-to-homepage&utm_term=2021-11-21&utm_content=Preview-AUDIO)
+
+### This extension is working only with installed [MetaOutput](https://www.metaoutput.net/?utm_source=github.com&utm_medium=referral&utm_campaign=redirect-to-homepage&utm_term=2021-11-21&utm_content=Preview-AUDIO) extension!
+
+---
+
 ### Now you can look inside [AAC](https://en.wikipedia.org/wiki/Advanced_Audio_Coding), [AIFF](https://en.wikipedia.org/wiki/Audio_Interchange_File_Format), [FLAC](https://en.wikipedia.org/wiki/FLAC), [M4A](https://en.wikipedia.org/wiki/MPEG-4_Part_14), [MKA](https://en.wikipedia.org/wiki/Matroska), [MP3](https://en.wikipedia.org/wiki/MP3), [WAV](https://en.wikipedia.org/wiki/WAV) and [WMA](https://en.wikipedia.org/wiki/Windows_Media_Audio) file not opening it.
 
 ---
@@ -16,16 +22,6 @@
 
 ---
 
-Download the extension from the [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=ViacheslavLozinskyi.Preview-AUDIO)
-
----
-
 Data visualization is based on [MetaOutput](https://www.metaoutput.net/?utm_source=github.com&utm_medium=referral&utm_campaign=redirect-to-homepage&utm_term=2021-11-21&utm_content=preview-audio)
 
 Data extraction is based on [TagLib-Sharp](https://github.com/mono/taglib-sharp)
-
----
-
-## WARNING:
-
-Correct work of this extension in **Visual Studio 2022** is possible when **[MetaOutput 2022](https://marketplace.visualstudio.com/items?itemName=ViacheslavLozinskyi.MetaOutput-2022)** extension is installed.
