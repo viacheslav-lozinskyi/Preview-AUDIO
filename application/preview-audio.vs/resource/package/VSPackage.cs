@@ -24,7 +24,7 @@ namespace resource.package
             public const string DESCRIPTION = "Quick preview the most popular audio files";
             public const string GUID = "E70E3F77-8265-433E-843C-015AACF219C5";
             public const string NAME = "Preview-AUDIO";
-            public const string VERSION = "1.0.6";
+            public const string VERSION = "1.0.7";
         }
 
         protected override async Task InitializeAsync(CancellationToken cancellationToken, IProgress<ServiceProgressData> progress)
