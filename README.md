@@ -8,16 +8,19 @@
 
 ---
 
+## Important information:
 [![MetaOutput](https://www.metaoutput.net/_functions/watch?utm_source=github.com&utm_medium=referral&utm_campaign=view-on-github&utm_content=Preview-AUDIO&source=GITHUB&size=128x128&project=Preview-AUDIO&url=https://github.com/viacheslav-lozinskyi/Preview-AUDIO)](https://www.metaoutput.net/)
 
-### This extension is working only with installed [MetaOutput](https://www.metaoutput.net/) extension!
+This extension is working only with installed [MetaOutput](https://www.metaoutput.net/) extension!
 
 ---
 
-### Now you can look inside [AAC](https://en.wikipedia.org/wiki/Advanced_Audio_Coding), [AIFF](https://en.wikipedia.org/wiki/Audio_Interchange_File_Format), [FLAC](https://en.wikipedia.org/wiki/FLAC), [M4A](https://en.wikipedia.org/wiki/MPEG-4_Part_14), [MKA](https://en.wikipedia.org/wiki/Matroska), [MP3](https://en.wikipedia.org/wiki/MP3), [WAV](https://en.wikipedia.org/wiki/WAV) and [WMA](https://en.wikipedia.org/wiki/Windows_Media_Audio) file not opening it.
+## Description:
+Now you can look inside [AAC](https://en.wikipedia.org/wiki/Advanced_Audio_Coding), [AIFF](https://en.wikipedia.org/wiki/Audio_Interchange_File_Format), [FLAC](https://en.wikipedia.org/wiki/FLAC), [M4A](https://en.wikipedia.org/wiki/MPEG-4_Part_14), [MKA](https://en.wikipedia.org/wiki/Matroska), [MP3](https://en.wikipedia.org/wiki/MP3), [WAV](https://en.wikipedia.org/wiki/WAV) and [WMA](https://en.wikipedia.org/wiki/Windows_Media_Audio) file not opening it.
 
 ---
 
+## How it works:
 ![Image](https://viacheslav-lozinskyi.github.io/Preview-AUDIO/resource/video/Presentation1.gif)
 
 ---
