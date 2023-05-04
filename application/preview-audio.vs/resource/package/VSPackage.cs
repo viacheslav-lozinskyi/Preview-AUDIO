@@ -26,7 +26,7 @@ namespace resource.package
             public const string GUID = "E70E3F77-8265-433E-843C-015AACF219C5";
             public const string HOST = "MetaOutput";
             public const string NAME = "Preview-AUDIO";
-            public const string VERSION = "1.0.9";
+            public const string VERSION = "1.1.0";
         }
 
         protected override async Task InitializeAsync(CancellationToken cancellationToken, IProgress<ServiceProgressData> progress)
